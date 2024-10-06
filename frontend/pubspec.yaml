@@ -1,0 +1,17 @@
+name: event_management_app
+description: A Flutter project for event management.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: latest_version
+  cloud_firestore: latest_version
+  provider: latest_version
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
